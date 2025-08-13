@@ -1,3 +1,11 @@
+/*
+    I think a fun and doable game would be a sand castle game.
+    Essentially the player controls a small shovel on a small island, with tools to help them build out a sandcastle.
+    At different intervals waves wash over and threaten to destroy their sandcastle.
+    Would be simple enough with a static camera, the biggest hurtle being implementing the particle systems.
+    I need to physically simulate sand and water.
+ */
+
 use bevy::prelude::*;
 
 fn main() {
